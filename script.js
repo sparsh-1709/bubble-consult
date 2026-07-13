@@ -12,11 +12,13 @@ const form = document.getElementById("contact-form");
 const phone = document.getElementById("phone");
 const email = document.getElementById("email");
 const messageInput = document.getElementById("message");
+const successMessage = document.getElementById("success-message");
 
 form.addEventListener("submit", function (event) {
 
     // Stop the browser from submitting the form
     event.preventDefault();
+    successMessage.textContent = "";
 
     // Phone Validation
     if (phone.value.trim() === "") {
@@ -42,7 +44,10 @@ form.addEventListener("submit", function (event) {
     }
 
     // Everything is valid
-    alert("Thank You! Your message has been received.");
+    successMessage.textContent =
+    "Thank you! Your message has been received.";
+
+    form.reset();
 
 });
 

@@ -724,6 +724,13 @@ form button:hover{
     transform: scale(1.05);
 }
 
+#success-message{
+    color:green;
+    font-size:18px;
+    margin-top:20px;
+    font-weight:500;
+}
+
 
 @media(max-width:992px){
 
