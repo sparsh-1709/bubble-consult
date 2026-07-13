@@ -1,28 +1,33 @@
 # Bubble Consult
 
-A fully responsive business consulting website developed as part of the **Accenture Front-End Development Training Program**.
+Bubble Consult is a fully responsive business consulting website developed as part of the **Accenture Front-End Development Training Program**.
 
-This project focuses on responsive web design, modern UI development, and interactive client-side functionality using **HTML**, **CSS**, and **JavaScript**.
+The project was built to create a modern digital presence for a consulting firm by focusing on responsive design, user engagement, and client interaction. It features a clean and professional interface with dynamic testimonials, a validated contact form, and a layout optimized for desktop, tablet, and mobile devices.
+
+---
+
+## 🌐 Live Demo
+
+https://bubble-consult-ashen.vercel.app/
 
 ---
 
 ## 📖 Project Overview
 
-Bubble Consult is a fictional business consulting company created to demonstrate a modern business website.
+The objective of this project was to design and develop a responsive business website that helps strengthen a company's online presence while providing visitors with an intuitive and engaging user experience.
 
-The objective was to design and develop a professional, responsive website that provides an engaging user experience across desktop, tablet, and mobile devices while implementing interactive front-end features.
-
-This project was completed during the Accenture Front-End Development Training Program and served as practical experience in building real-world responsive web interfaces.
+The website was developed by implementing the functional requirements and wireframe provided during the Accenture Front-End Development Training Program.
 
 ---
 
 ## 🎯 Objectives
 
-- Build a responsive business website.
-- Support business growth through a professional online presence.
-- Implement an interactive testimonials carousel.
-- Create an intuitive contact form.
-- Practice responsive web design using Flexbox, CSS Grid, and Media Queries.
+- Develop a responsive business consulting website.
+- Create a modern and professional user interface.
+- Ensure compatibility across desktop, tablet, and mobile devices.
+- Implement a dynamic testimonials carousel.
+- Provide an intuitive contact form with client-side validation.
+- Build reusable and maintainable front-end components.
 
 ---
 
@@ -30,14 +35,17 @@ This project was completed during the Accenture Front-End Development Training P
 
 - Responsive Navigation Bar
 - Hero Section
-- Brands Section
+- Brand Showcase
 - About Section
 - Services Section
-- Contact Form
+- Contact Form with Validation
+- Success Message after Form Submission
 - Team Section
 - Dynamic Testimonials Carousel
+  - Manual Previous/Next Navigation
+  - Automatic Rotation
 - Blogs & Articles Section
-- Newsletter Subscription
+- Newsletter Subscription Section
 - Social Media Links
 - Responsive Footer
 
@@ -56,7 +64,7 @@ This project was completed during the Accenture Front-End Development Training P
 
 ## 📱 Responsive Design
 
-The website is optimized for:
+The website is fully optimized for:
 
 - Desktop
 - Tablet
@@ -64,37 +72,36 @@ The website is optimized for:
 
 ---
 
-## 📚 Learning Outcomes
+## 📂 Project Structure
 
-Through this project, I gained practical experience in:
-
-- Semantic HTML
-- Responsive Web Design
-- CSS Flexbox
-- CSS Grid
-- Media Queries
-- DOM Manipulation
-- JavaScript Events
-- Responsive Navigation Menu
-- Git & GitHub Workflow
-- Website Deployment using Vercel
+```text
+Bubble-Consult/
+│
+├── index.html
+├── style.css
+├── script.js
+├── pictures/
+└── README.md
+```
 
 ---
 
 ## 🚀 Future Improvements
 
-- Contact Form Validation
-- Success Message after Form Submission
-- Automatic Testimonial Rotation
-- Backend Integration
-- Accessibility Improvements
-- Performance Optimization
+- Backend integration for contact form submissions
+- EmailJS integration
+- Accessibility improvements (WCAG)
+- Enhanced animations and micro-interactions
+- Dark mode support
+- SEO optimization
+- Performance optimization
 
 ---
 
 ## 📸 Preview
 
-(Add a screenshot after deploying the website.)
+<img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/3a934a08-59c0-4276-9148-8c4926e9f602" />
+
 
 ---
 
