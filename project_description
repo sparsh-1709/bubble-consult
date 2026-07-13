@@ -1,0 +1,68 @@
+Introduction
+
+Bubble Consult is a progressive business consulting firm dedicated to providing innovative solutions and strategies to help businesses scale and thrive. As part of their growth strategy, they needed a modern, responsive
+ website that would enhance their online presence, engage their audience, and streamline client interactions.
+
+Objectives
+
+ Business Scaling: Develop a website that supports Bubble Consult’s goals for scaling their business by providing a strong digital platform to attract and retain clients.
+
+ Responsive Design: Ensure the website performs seamlessly across all devices, including mobile phones, tablets, and desktops.
+
+ Dynamic Testimonials Carousel: Implement a carousel feature in the website to show the client testimonials
+
+ Contact Form Integration: Create an intuitive contact form to facilitate easy communication between potential clients and Bubble Consult.
+
+User Story #1
+
+Title: Scalable business website
+
+Description: 
+• As an owner,
+• I want to have a website designed to support and facilitate business growth,
+• So that the website can effectively offer enhanced features and help attract and convert more customers as the business expands.
+
+Acceptance Criteria:
+• The website should load quickly and efficiently, with optimized images, scripts, and other resources to ensure a smooth user experience
+• The website should include effective lead generation features such as contact forms, social media links, and subscription forms
+
+User Story #2
+
+Title: Responsive website
+
+Description: 
+• As an owner,
+• I want to have a website that provides a consistent and optimized user experience across all devices (mobile phones, tablets, and desktops),
+• So that my customers can easily access and interact with the site regardless of the device they are using.
+
+Acceptance Criteria:
+• The website should automatically adjust its layout and content based on the screen size and orientation of the device.
+• The design should be fluid and adaptable, ensuring that content is displayed properly on small screens (mobile phones), medium screens (tablets), and large screens (desktops).
+
+User Story #3
+
+Title: Carousel in website
+
+Description: 
+• As a product owner,
+• I want to feature a carousel displaying customer testimonials on my website,
+• So that I can effectively showcase positive feedback and build credibility with potential customers.
+
+Acceptance Criteria:
+• Users should be able to manually navigate through testimonials using next and previous buttons.
+• Testimonials should also automatically rotate at an interval (e.g., every 5 seconds)
+
+User Story #4
+
+Title: Contact form for user queries
+
+Description: 
+• As a product owner,
+• I want to provide a contact form on my website,
+• So that users can easily submit their queries or messages directly through the website.
+
+Acceptance Criteria:
+
+• Implement form validation to ensure that all required fields are correctly filled out and that the email address is in the proper format
+• After submission, display a confirmation message or thank-you note to the user indicating that their message has been received.
+Wireframe
