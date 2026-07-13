@@ -778,6 +778,16 @@ form button{
     background-size:220px;
 }
 
+.input-row{
+    flex-direction:column;
+}
+
+.phone-code,
+.email,
+.input-row input{
+    width:100%;  
+}
+
 .contact-content h2{
 
     font-size:34px;
